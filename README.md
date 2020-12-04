@@ -8,4 +8,4 @@ A few things about me:
 
 - I spend my time by:  learning new skills, playing cards 🃏, reading 📚, exercising 🤸, and drinking good coffee ☕. Pre-covid, I would travel frequently 🛫
 
-- ⚡ Fun fact: I make homemade pizza 🤘 from scratch 🍕 🤘
+- ⚡ Fun fact: I make homemade pizza 🍕 🤘 from scratch 🤘 
