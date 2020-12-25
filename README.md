@@ -6,6 +6,6 @@ A few things about me:
 
 - 📚 5 books I recommend often are "Superforecasting" by Philip Tetlock, "The Structure of Scientific Revolutions" by Thomas Kuhn, "How to Solve It" by George Polya, "Thinking In Systems" by Donella Meadows, and "Mindset" by Carol Dweck.
 
-- I spend my time by:  teaching myself new skills, playing cards 🃏, reading 📚, exercising 🤸, and drinking good ☕. Pre-covid, I would travel frequently 🛫
+- I spend my time by:  teaching myself new skills, working on projects , reading 📚, exercising 🤸, and drinking good ☕.
 
 - Fun fact: I make homemade 🍕 from scratch 🤘 
