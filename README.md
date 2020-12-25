@@ -13,3 +13,6 @@ A few things about me:
 
 [![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremysb1&show_icons=true&theme=synthwave)](https://github.com/jeremysb1/github-readme-stats)
 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremysb1)](https://github.com/jeremysb1/github-readme-stats)
+
