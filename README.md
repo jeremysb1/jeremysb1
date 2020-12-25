@@ -8,4 +8,7 @@ A few things about me:
 
 - I spend my time by:  teaching myself new skills, working on projects , reading 📚, exercising 🤸, and drinking good ☕.
 
-- Fun fact: I make homemade 🍕 from scratch 🤘 
+- Fun fact: I make homemade 🍕 from scratch 🤘
+
+
+[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremysb1)](https://github.com/jeremysb1/github-readme-stats)
