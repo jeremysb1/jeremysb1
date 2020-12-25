@@ -11,5 +11,5 @@ A few things about me:
 - Fun fact: I make homemade 🍕 from scratch 🤘
 
 
-[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremysb1&show_icons=true&theme=radical)](https://github.com/jeremysb1/github-readme-stats)
+[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=jeremysb1&show_icons=true&theme=synthwave)](https://github.com/jeremysb1/github-readme-stats)
 
