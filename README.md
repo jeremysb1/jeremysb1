@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently focused on JavaScript and React Projects. I have also worked with Python.
+I'm currently focused on JavaScript, React Projects, and Machine Learning projects with Python.
 
 A few things about me:
 
