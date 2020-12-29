@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently focused on JavaScript and React. I also have experience with Python.
+I have experience with JavaScript, React, and Python.
 
 A few things about me:
 
