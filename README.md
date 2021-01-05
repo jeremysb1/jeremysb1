@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jeremy, a Software Engineer.
+
 I have experience with JavaScript, React, and Python.
 
 A few things about me:
