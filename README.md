@@ -2,7 +2,7 @@
 
 I'm Jeremy, a Software Engineer.
 
-I have experience with JavaScript, React, and Python.
+I have experience with JavaScript and Python.
 
 A few things about me:
 
@@ -10,4 +10,4 @@ A few things about me:
 
 - 📚 5 books I recommend often are "Superforecasting" by Philip Tetlock, "The Structure of Scientific Revolutions" by Thomas Kuhn, "How to Solve It" by George Polya, "Thinking In Systems" by Donella Meadows, and "Mindset" by Carol Dweck.
 
-- I make homemade 🍕 from scratch 🤘
+- One fun fact is I make homemade 🍕 from scratch 🤘
