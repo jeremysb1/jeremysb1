@@ -2,7 +2,7 @@
 
 I'm Jeremy, a Software Engineer.
 
-A few things about me:
+About me:
 
 - I spend my time by:  teaching myself new skills, working on projects , reading 📚, exercising 🤸, and drinking good ☕.
 
