@@ -2,7 +2,7 @@
 
 I'm Jeremy, a Software Engineer.
 
-I work with JavaScript, Typescript and React with an emphasis on improving application performance and user experience.
+I work with JavaScript and React.
 
 About me:
 
