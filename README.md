@@ -2,7 +2,7 @@
 
 I'm Jeremy, I am passionate about the intersection of data, strategy, and innovation. 
 
-My work focuses on identifying and implementing new opportunities that drive business growth. 
+My work focuses on converting data into competitive advantages. 
 
 I mostly work with Python and Machine Learning.
 
