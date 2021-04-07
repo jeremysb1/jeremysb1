@@ -1,10 +1,6 @@
 ### Hello 👋
 
-I'm Jeremy, I am passionate about the intersection of data, strategy, and innovation. 
-
-I like to convert data into competitive advantages. 
-
-I mostly work with Python and Machine Learning.
+I'm Jeremy, I like to convert data into competitive advantages. 
 
 About me:
 
