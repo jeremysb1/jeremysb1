@@ -1,9 +1,11 @@
 ### Hello 👋
 
-I'm Jeremy, I like to convert data into competitive advantages. 
+I'm Jeremy, a software developer. I like to work with JavaScript, Vue, NodeJS, and TypeScript.
 
 About me:
 
-- I likee to:  teach myself new skills, work on projects, read 📚, work out 🤸, and drink good ☕.
+- I like to:  teach myself new skills, work on projects, read 📚, work out 🤸, and drink good ☕.
 
 - A fun fact is I make homemade 🍕 from scratch 🤘
+
+Currently based in Durham, NC.
