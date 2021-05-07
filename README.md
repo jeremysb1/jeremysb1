@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Jeremy, a software developer. I like to work with JavaScript, Vue, NodeJS, and TypeScript.
+I'm Jeremy, a software developer. I work with JavaScript, Vue, NodeJS, and TypeScript.
 
 About me:
 
