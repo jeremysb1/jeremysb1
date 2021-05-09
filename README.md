@@ -1,11 +1,9 @@
 ### Hello 👋
 
-I'm Jeremy, a software developer. I work with JavaScript, Vue, NodeJS, and TypeScript.
+I'm Jeremy, a software developer in Durham, NC.
 
-About me:
+After college, I worked at a few venture-backed and YC startups in the Bay Area. I also worked with Google Cloud in Austin and Atlanta.
 
-- I like to:  teach myself new skills, work on projects, read 📚, work out 🤸, and drink good ☕.
+In 2020, I decided to teach myself how to code in order to work as a developer. At the moment, I diving deeper into JavaScript, Vue, and NodeJS. 
 
-- A fun fact is I make homemade 🍕 from scratch 🤘
-
-Currently based in Durham, NC.
+I spend my time by teaching myself new skills, working on projects, reading 📚, working out 🤸, drinking good ☕, and ocassionally making homemade 🍕 from scratch 🤘
