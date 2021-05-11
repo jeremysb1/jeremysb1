@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Jeremy, a software developer in Durham, NC.
+I'm Jeremy, a software developer.
 
 After college, I worked at a few venture-backed and YC startups in the Bay Area. I also worked with Google Cloud in Austin.
 
