@@ -1,4 +1,4 @@
-### Hello 👋
+### Hi 👋
 
 I'm Jeremy, a software developer.
 
