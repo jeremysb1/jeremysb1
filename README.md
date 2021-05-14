@@ -1,9 +1,9 @@
-### Hi 👋
+### Hi 👋 I'm Jeremy.
 
-I'm Jeremy, a software developer.
+I like to code.
 
 After college, I worked at a few venture-backed and YC startups in the Bay Area. I also worked with Google Cloud in Austin.
 
-Currently, I'm working with JavaScript, Vue, NodeJS, and TypeScript.
+Currently, I'm working with getting up to speed with Vue.
 
 I spend my time by teaching myself new skills, working on projects, reading 📚, working out 🤸, drinking good ☕, and ocassionally making homemade 🍕 from scratch 🤘
