@@ -2,7 +2,7 @@
 
 I like to code.
 
-After college, I worked at a few venture-backed and YC startups in the Bay Area. I also worked with Google Cloud in Austin.
+After college, I worked at a few venture-backed and YC startups, and with Google Cloud.
 
 Currently, I'm working with getting up to speed with Vue and diving deeper into JavaScript.
 
