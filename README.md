@@ -1,4 +1,6 @@
-### Hi 👋 I'm Jeremy.
+## Hi 👋 I'm Jeremy.
+
+### "How can I can be so skinny and live so Phat?"
 
 I work with JavaScript, React, Node, Python, and Django.
 
