@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jeremy
 - I like to solve business problems with code.
-- I’m currently working on some Golang projects.
 - Experienced Product Manager and Web Developer.
 
 <!---
