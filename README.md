@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jeremy
-- I like to solve business problems with code.
-- Experienced Product Manager and Web Developer.
+- I am passionate about programming and problem-solving.
 
 <!---
 jeremysb1/jeremysb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
