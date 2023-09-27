@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremy
-- I am passionate about AI and Deep Learning.
-- I work mostly in Python and C++.
+- I am a Software Engineer.
+- I like to learn new skills, technologies, drink great cold brew, and read.
 
 <!---
 jeremysb1/jeremysb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
