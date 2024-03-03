@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jeremy
-- I like to train neural nets.
-- I also spend time learning how to better grok ML/AI.
+- 👋 Hi, I’m Jeremy.
+- I like to solve business problems with code.
+- I spend a lot of time grokking ML/AI.
 
 <!---
 jeremysb1/jeremysb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
