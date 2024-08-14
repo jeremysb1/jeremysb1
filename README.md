@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremy.
-- I like to solve business problems with code.
+- I like to work with Python and Go.
 
 <!---
 jeremysb1/jeremysb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
