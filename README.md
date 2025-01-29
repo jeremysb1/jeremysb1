@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremy.
-- I like to use Math and Machine learning to help companies perform better.
+- I use Math and Machine learning to help companies increase revenue.
 
 <!---
 jeremysb1/jeremysb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
