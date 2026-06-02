@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremy.
 
-- I am passionate about machine learning and data science.
+- I am passionate about machine learning.
 
 <!---
 jeremysb1/jeremysb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
