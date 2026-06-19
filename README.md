@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremy.
 
-- My work lies at the intersection of causal machine learning and systems programming.
+- I explore the intersection of causal machine learning, computer vision, and systems programming.
 
 <!---
 jeremysb1/jeremysb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
