@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremy.
 
 - I'm a Systems Programmer and Platform Engineer.
-- I like to build foundational systems enabling other engineers to deliver software faster.
+- I like to build foundational systems enabling other engineers to deliver their best work.
 - I mostly program in Go.
 
 <!---
