@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeremy.
+👋 Hi, I’m Jeremy.
 
 My interests are:
 - Go Programming
