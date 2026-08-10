@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremy.
 
-- My interests are:
+My interests are:
 - Go Programming
 - Rust
 - Python
